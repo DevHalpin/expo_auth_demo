@@ -1,13 +1,4 @@
 {
   "name": "google_auth_demo",
-  "displayName": "google_auth_demo",
-  "ios": {
-    "supportsTablet": true,
-    "bundleIdentifier": "org.reactjs.native.example.google-auth-demo",
-    "buildNumber": 1
-  },
-  "expo": {
-    "slug": "googleauthdemo",
-    "scheme": "googleauthdemo"
-  }
+  "displayName": "google_auth_demo"
 }
